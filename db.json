@@ -12,8 +12,8 @@
 		"promosInfo": [
 			{ 
 				"id":1, 
-				"availableData": 12.0,
-				"todayUsedData": 100.0
+				"promoAvailableData": 12.0,
+				"promoUsedTodayData": 100.0
 			}
 		]
 	},

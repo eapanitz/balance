@@ -6,13 +6,13 @@
 		"updateDate" : "19-06-2018 18:13:00",
 		"planInfo": {
 			"id": 1,
-			"planAvailableData": 2900.0,
+			"planAvailableData": 2048.0,
 			"planTodayUsedData": 100.0
 		},
 		"promosInfo": [
 			{ 
 				"id":1, 
-				"promoAvailableData": 12.0,
+				"promoAvailableData": 512.0,
 				"promoUsedTodayData": 100.0
 			}
 		]

@@ -18,6 +18,23 @@
 		]
 	},
 	{
+		"id": 3,
+		"responseCode": 200,
+		"updateDate" : "19-06-2018 18:13:00",
+		"planInfo": {
+			"id": 1,
+			"planAvailableData": 1536.0,
+			"planTodayUsedData": 524.0
+		},
+		"promosInfo": [
+			{ 
+				"id":1, 
+				"promoAvailableData": 0.0,
+				"promoUsedTodayData": 612.0
+			}
+		]
+	},
+	{
 		"id": 2,
 		"responseCode": 200,
 		"updateDate" : "19-06-2018 18:13:00",

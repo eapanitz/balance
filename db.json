@@ -6,10 +6,10 @@
 		"updateDate" : "19-06-2018 18:13:00",
 		"planInfo": {
 			"planTotalData": 30720.0,
-			"planAvailableData": 2048.0
+			"planAvailableData": 30720.0
 		},
 		"promosInfo": { 
-			"promoTotalData": 20.0,
+			"promoTotalData": 20480.0,
 			"promoAvailableData": 512.0
 		}
 	},
